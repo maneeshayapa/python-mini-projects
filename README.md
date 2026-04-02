@@ -27,7 +27,7 @@ Features:
 - Python 3
 - Built-in modules (`random`)
 
-- ### To-Do List (Console App)
+### To-Do List (Console App)
 A Python console app to manage daily tasks. Tasks are saved to a file, so they persist even after closing the program.
 
 Features:
